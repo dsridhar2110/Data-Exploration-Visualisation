@@ -1,2 +1,2 @@
 # Data-Exploration-Visualisation
-Distress Analysis And Forecast
+Please refer to Project_Report.pdf for a detailed structure of the project
